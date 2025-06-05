@@ -132,5 +132,5 @@
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
 	<span class="creator">Built by <a href="http://www.nmelhado.com/">Nicholas Melhado</a><br /></span>
-	<span class="creator">Edited and reskinned for the Gentlemen's League by Grayson Reames.o</a><br /></span>
+	<p>Edited and reskinned for the Gentlemen's League by Grayson Reames<p>
 </footer>
