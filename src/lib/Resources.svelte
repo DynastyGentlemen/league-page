@@ -67,10 +67,10 @@ import { dynasty } from './utils/helper';
             dynastyOnly: true,
         },
         {
-            name: "Dynasty Nerds GM",
-            url: "https://gm.dynastynerds.com/",
+            name: "KeepTradeCut",
+            url: "https://keeptradecut.com/",
             icon: "insights",
-            premium: true,
+            premium: false,
             separator: true,
             dynastyOnly: true,
         },
